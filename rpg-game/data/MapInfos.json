@@ -25,8 +25,24 @@ null,
 null,
 null,
 null,
+<<<<<<< HEAD
 {"id":26,"expanded":true,"name":"phong KTX 2","order":6,"parentId":4,"scrollX":819,"scrollY":461},
 {"id":27,"expanded":true,"name":"Nhà kho","order":11,"parentId":5,"scrollX":819,"scrollY":461},
 {"id":28,"expanded":true,"name":"phong KTX 1","order":3,"parentId":7,"scrollX":819,"scrollY":461},
 {"id":29,"expanded":false,"name":"phong KTX 3","order":9,"parentId":2,"scrollX":819,"scrollY":461}
+=======
+{"id":26,"expanded":true,"name":"phong KTX 2","order":27,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":27,"expanded":true,"name":"Nhà kho","order":28,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":28,"expanded":true,"name":"phong KTX 1","order":29,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":29,"expanded":false,"name":"phong KTX 3","order":30,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":30,"expanded":false,"name":"Hành Lang BK","order":31,"parentId":0,"scrollX":2457,"scrollY":1359},
+{"id":31,"expanded":false,"name":"XHNV","order":32,"parentId":0,"scrollX":2457,"scrollY":1359},
+{"id":32,"expanded":false,"name":"Phòng Học NV","order":33,"parentId":0,"scrollX":979,"scrollY":521},
+{"id":33,"expanded":false,"name":"Thư viện NV","order":34,"parentId":0,"scrollX":979.1999999999999,"scrollY":526.8},
+{"id":34,"expanded":true,"name":"Phòng học 2 NV","order":35,"parentId":0,"scrollX":1224,"scrollY":521},
+{"id":35,"expanded":false,"name":"Thang máy NV","order":36,"parentId":0,"scrollX":1638,"scrollY":906},
+{"id":36,"expanded":false,"name":"Hành lang BK 2","order":37,"parentId":0,"scrollX":1088,"scrollY":596},
+{"id":37,"expanded":false,"name":"KHTN","order":38,"parentId":0,"scrollX":2433,"scrollY":1359},
+{"id":38,"expanded":false,"name":"Phòng KHTN","order":39,"parentId":0,"scrollX":2457,"scrollY":1359}
+>>>>>>> 8112d6d47fe7043e5df35e6840e511cbd3f56426
 ]
