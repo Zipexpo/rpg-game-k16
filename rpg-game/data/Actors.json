@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"sv1","characterIndex":0,"characterName":"sv1","classId":5,"equips":[0,0,2,3,4],"faceIndex":0,"faceName":"SV-01","traits":[],"initialLevel":1,"maxLevel":99,"name":"A","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"sv2","characterIndex":0,"characterName":"sv2","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sv2","traits":[],"initialLevel":1,"maxLevel":99,"name":"B","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"sv1","characterIndex":0,"characterName":"sv1","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"sv1","traits":[{"code":43,"dataId":1,"value":1},{"code":43,"dataId":2,"value":1},{"code":51,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"A","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"sv2","characterIndex":0,"characterName":"sv2","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"sv2","traits":[{"code":43,"dataId":1,"value":1},{"code":43,"dataId":2,"value":1},{"code":51,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"B","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
