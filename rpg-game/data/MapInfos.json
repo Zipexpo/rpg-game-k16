@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"Nhà trọ","order":1,"parentId":0,"scrollX":1786.909090909091,"scrollY":988.3636363636364},
 {"id":2,"expanded":true,"name":"BK-KTX","order":6,"parentId":0,"scrollX":811,"scrollY":507},
 {"id":3,"expanded":true,"name":"BK","order":7,"parentId":0,"scrollX":811,"scrollY":1047},
@@ -28,4 +29,35 @@ null,
 {"id":26,"expanded":false,"name":"Hành lang BK 2","order":21,"parentId":3,"scrollX":819,"scrollY":453},
 {"id":27,"expanded":true,"name":"KHTN","order":27,"parentId":0,"scrollX":2433,"scrollY":1179},
 {"id":28,"expanded":false,"name":"Phòng KHTN","order":28,"parentId":27,"scrollX":2349,"scrollY":445}
+=======
+{"id":1,"expanded":true,"name":"Phòng trọ 1","order":26,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"3rd floor ktx","order":8,"parentId":5,"scrollX":817,"scrollY":455.5},
+{"id":3,"expanded":true,"name":"Trường đại học BK","order":12,"parentId":0,"scrollX":811,"scrollY":463},
+{"id":4,"expanded":true,"name":"2nd floor ktx","order":5,"parentId":5,"scrollX":817,"scrollY":455.5},
+{"id":5,"expanded":true,"name":"ki tuc xa","order":1,"parentId":0,"scrollX":1860,"scrollY":1467},
+{"id":6,"expanded":true,"name":"Phòng học BK 1","order":23,"parentId":3,"scrollX":809,"scrollY":461.5},
+{"id":7,"expanded":true,"name":"1st floor ktx","order":2,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"Phòng học BK 12","order":13,"parentId":3,"scrollX":811,"scrollY":499},
+{"id":9,"expanded":false,"name":"Phòng học BK 2","order":22,"parentId":3,"scrollX":811,"scrollY":462},
+{"id":10,"expanded":false,"name":"Phòng học BK 3","order":21,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":false,"name":"Phòng học BK 4","order":20,"parentId":3,"scrollX":728,"scrollY":409.77777777777777},
+{"id":12,"expanded":false,"name":"Phòng học BK 5","order":19,"parentId":3,"scrollX":527,"scrollY":302},
+{"id":13,"expanded":false,"name":"Phòng học BK 6","order":18,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":14,"expanded":false,"name":"Phòng học BK 7","order":17,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":15,"expanded":false,"name":"Phòng học BK 8","order":16,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":16,"expanded":false,"name":"Con đường dẫn đến BK","order":25,"parentId":0,"scrollX":811,"scrollY":499},
+{"id":17,"expanded":false,"name":"Phòng học BK 9","order":15,"parentId":3,"scrollX":811,"scrollY":499},
+{"id":18,"expanded":false,"name":"Phòng học BK 10","order":24,"parentId":3,"scrollX":809,"scrollY":499.5},
+{"id":19,"expanded":false,"name":"Phòng học BK 11","order":14,"parentId":3,"scrollX":811,"scrollY":461},
+{"id":20,"expanded":false,"name":"Phong KTX 4","order":4,"parentId":7,"scrollX":817,"scrollY":455.5},
+{"id":21,"expanded":false,"name":"Phong KTX 5","order":7,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":22,"expanded":false,"name":"Phong KTX 6","order":10,"parentId":2,"scrollX":819,"scrollY":461},
+null,
+null,
+null,
+{"id":26,"expanded":true,"name":"phong KTX 2","order":6,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":27,"expanded":true,"name":"Nhà kho","order":11,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":28,"expanded":true,"name":"phong KTX 1","order":3,"parentId":7,"scrollX":819,"scrollY":461},
+{"id":29,"expanded":false,"name":"phong KTX 3","order":9,"parentId":2,"scrollX":819,"scrollY":461}
+>>>>>>> origin/master
 ]
